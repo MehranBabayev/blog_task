@@ -51,7 +51,7 @@ PACKAGE_APPS = [
 ]
 
 PROJECT_APPS = [
-    # 'apps.core',
+    'apps.core',
     'apps.blog',
     'apps.users',
 ]
